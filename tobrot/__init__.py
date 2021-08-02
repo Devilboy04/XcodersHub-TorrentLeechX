@@ -159,4 +159,4 @@ def multi_rclone_init():
 
 multi_rclone_init()
 
-logging.info("😎THE BOT IS BOOTED AND READY TO USE--send /help for more🤖.")
+logging.info("😎THE BOT IS BOOTED AND READY TO USE.")
